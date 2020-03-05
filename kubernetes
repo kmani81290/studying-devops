@@ -1,2 +1,8 @@
 what is kubernetes and why we are using kubernetes?
-lot of specific types of workloads,  over decades that 
+lot of specific types of workloads,  over decades that multiple computer bring them to gather and assign to work.
+you might them thing about the modern infrastructure tools like puppet,   terraform, has limited types of orcheistor because of the make 
+decision about  whaere things to go in infrastructure.
+
+2 types of in a docker
+ --> popularity in \distributed computing  (breaking up the apps into small peices and allowing to the bigger team to go faster with their development) 
+ -->
